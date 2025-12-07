@@ -4,10 +4,7 @@
  */
 package pertemuan13;
 
-/**
- *
- * @author inongmzahra
- */
+
 public class Pertemuan13 {
 
     /**
@@ -18,3 +15,4 @@ public class Pertemuan13 {
     }
     
 }
+
