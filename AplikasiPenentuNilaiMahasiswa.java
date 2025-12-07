@@ -1,22 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package pertemuan13;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author inongmzahra
- */
+
 public class AplikasiPenentuNilaiMahasiswa extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(AplikasiPenentuNilaiMahasiswa.class.getName());
 
-    /**
-     * Creates new form AplikasiPenentuNilaiMahasiswa
-     */
+
     public AplikasiPenentuNilaiMahasiswa() {
         initComponents();
     }
